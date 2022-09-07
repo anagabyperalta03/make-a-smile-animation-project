@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Hxe%`U6BQ/47^/{Y^xdq" x="20" y="20"></block><block type="device_forever" id="6*u%6~?^VSz5ej4R1O?x" x="225" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="|A.xSv{z?9nsRI8ME)K7"><field name="i">IconNames.Sad</field><next><block type="device_pause" id="#qU2|IRG($4aNCV31DYY"><value name="pause"><shadow type="timePicker" id="EVAtyyseE=CJzWCMii-H"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="*AIw;UO[_sJgk.1{h~Q8"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="device_pause" id="Ia=G2$nQclS+RtTNon;{"><value name="pause"><shadow type="timePicker" id="M^b?a@kCZ#Rk9w56r_HQ"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="Gz9(nPpZ47j=r/HbWy|P"><field name="i">IconNames.Happy</field><next><block type="device_pause" id="v$Y`CAeQ;zVxf_]Zbz1!"><value name="pause"><shadow type="timePicker" id="X$}#lRwMjr_c*lVL(r-O"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
